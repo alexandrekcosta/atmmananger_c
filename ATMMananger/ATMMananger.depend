@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649056873 source:c:\users\workspace\desktop\c\atmmananger\main.c
+	<stdio.h>
+	<stdlib.h>
+

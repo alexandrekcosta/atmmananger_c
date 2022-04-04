@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649048602 source:c:\users\workspace\desktop\c\bankbillpayqueue\main.c
+	<stdio.h>
+	<stdlib.h>
+
