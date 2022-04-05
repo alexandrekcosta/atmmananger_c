@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649169450 source:c:\users\workspace\desktop\c\electronicvotemananger\main.c
+	<stdio.h>
+	<stdlib.h>
+
