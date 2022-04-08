@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649443657 source:c:\users\workspace\desktop\c\dowhile\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
