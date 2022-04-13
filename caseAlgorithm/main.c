@@ -58,7 +58,7 @@ int n;
             break;
 
             case 9:
-                printf("\nYou entered number nine.\n",n);
+                printf("\nYou entered number nine.",n);
                 system("clear");
             break;
 
