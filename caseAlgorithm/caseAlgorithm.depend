@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649871782 source:/home/mint/Desktop/C/caseAlgorithm/main.c
+	<stdio.h>
+	<stdlib.h>
+
