@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1649952688 source:/home/mint/Desktop/C/Switch2/main.c
+	<stdio.h>
+	<stdlib.h>
+
