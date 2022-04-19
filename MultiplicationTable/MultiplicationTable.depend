@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650377686 source:/home/mint/Desktop/C/MultiplicationTable/main.c
+	<stdio.h>
+	<stdlib.h>
+
