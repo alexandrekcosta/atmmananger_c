@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1651156548 source:/home/mint/Desktop/C/Operator2/main.c
+	<stdio.h>
+	<stdlib.h>
+
